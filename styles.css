@@ -1,0 +1,47 @@
+.site-nav .link {
+  text-transform: uppercase;
+}
+.post-title {
+  text-align: center;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-justify {
+  text-align: justify;
+}
+
+.post-text {
+  text-indent: 100px;
+}
+.text {
+  font-size: 16px;
+  line-height: 5;
+}
+.post-title {
+  letter-spacing: 10px;
+}
+
+.post-text {
+  letter-spacing: 5px;
+}
+.title {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px #000000;
+}
+.title {
+  color: #ffffff;
+  text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
+}
+.text {
+  font-size: 20px;
+} /* Поміняємо місцями жирність тексту заголовка і абзацу */
+.title {
+  font-weight: 400;
+}
+
+.text {
+  font-weight: 700;
+}
